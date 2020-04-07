@@ -7,7 +7,3 @@ def square_array(array)
   end
   newarray
 end
-
-array = [2,4,6]
-square_array(array)
-binding.pry
