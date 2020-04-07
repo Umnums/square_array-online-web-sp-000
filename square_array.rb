@@ -1,3 +1,4 @@
+require 'pry'
 def square_array(array)
   # your code here
   newarray = []
@@ -6,3 +7,5 @@ def square_array(array)
   end
   newarray
 end
+
+binding.pry
